@@ -13,7 +13,7 @@
     <h2><a href="https://github.com/RiuminIa/myInformation/tree/master/public_html/Zadanie1/web_pages/cv.html#">Zivotopis</a></h2>
     <div>
         My CV and some silly information. <br> 
-        <br> <img src="https://github.com/RiuminIa/myInformation/blob/master/public_html/Zadanie1/images/cv.png" alt="cv" height="500px">
+        <br> <img src="https://github.com/RiuminIa/myInformation/blob/master/public_html/Zadanie1/images/cv2.png" alt="cv" height="500px">
     </div>
     <h2><a href="https://github.com/RiuminIa/myInformation/blob/master/public_html/Zadanie1/web_pages/schedule.html#">Moj rozvrh</a></h2>
     <div>
